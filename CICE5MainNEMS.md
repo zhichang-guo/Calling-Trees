@@ -1,4 +1,4 @@
-<pre>This is a primary tree starting at the program <a herf="https://github.com/NOAA-EMC/NEMS/blob/develop/src/MAIN_NEMS.F90">'main_nems'</a>
+<pre>This is a primary tree starting at the program main_nems (https://github.com/NOAA-EMC/NEMS/blob/develop/src/MAIN_NEMS.F90)
 
 main_nems
 +-CHECK_ESMF_PET(Check if we want ESMF PET files or not)
